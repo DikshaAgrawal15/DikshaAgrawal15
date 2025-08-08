@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikshaagawal15" alt="dikshaagawal15" /></a> </p>
 
-- 🌱 I’m currently learning **DATA STRUCTRUCE ,ALGORITHMS,OOPS,DBMS**
+- 🌱 I’m currently learning **c++,oops,DATA STRUCTRUCE ,ALGORITHMS,DBMS**
 
 - 📫 How to reach me **dikshaaagrawal70@gmail.com**
 
